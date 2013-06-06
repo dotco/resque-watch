@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '/TinyRedisClient.php');
+require_once(__DIR__ . '/lib/TinyRedisClient.php');
 
 $server = 'localhost:6379';
 $db = 0;
